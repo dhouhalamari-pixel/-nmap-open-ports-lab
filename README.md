@@ -1,4 +1,4 @@
-# -nmap-open-ports-lab 
+# nmap-open-ports-lab 
 ## Description:
 Network reconnaissance of Metasploitable 2 using Kali Linux.
 ## Goal:
